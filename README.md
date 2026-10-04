@@ -118,7 +118,7 @@ uvicorn app:app --reload
 Then open `http://127.0.0.1:8000/docs` to test both endpoints interactively.
 
 **Live (deployed):**
-Open `<live-url>/docs` to test both endpoints interactively — no local setup needed.
+Open `https://log-intelligence-pipeline.onrender.com/docs` to test both endpoints interactively — no local setup needed.
 
 ## Sample Request (API)
 ```json
